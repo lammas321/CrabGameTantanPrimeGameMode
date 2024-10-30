@@ -3,6 +3,9 @@ A BepInEx mod for Crab Game that adds a more challenging and configurable versio
 
 Depends on [CustomGameModes](https://github.com/lammas321/CrabGameCustomGameModes)
 
+- Watch out for falling crabs
+- Good luck, you'll need it ;)
+
 ## WHY!?
 Why not? :)
 
